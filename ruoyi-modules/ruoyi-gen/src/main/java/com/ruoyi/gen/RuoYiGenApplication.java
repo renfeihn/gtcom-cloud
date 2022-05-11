@@ -9,7 +9,7 @@ import com.ruoyi.common.swagger.annotation.EnableCustomSwagger2;
 /**
  * 代码生成
  * 
- * @author ruoyi
+ *
  */
 @EnableCustomConfig
 @EnableCustomSwagger2   

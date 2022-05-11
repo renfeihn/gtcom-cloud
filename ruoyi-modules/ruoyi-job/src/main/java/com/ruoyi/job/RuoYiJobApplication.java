@@ -9,7 +9,7 @@ import com.ruoyi.common.swagger.annotation.EnableCustomSwagger2;
 /**
  * 定时任务
  * 
- * @author ruoyi
+ *
  */
 @EnableCustomConfig
 @EnableCustomSwagger2   

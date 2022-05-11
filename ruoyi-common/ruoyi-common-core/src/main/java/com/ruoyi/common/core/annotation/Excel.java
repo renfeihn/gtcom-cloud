@@ -10,7 +10,7 @@ import com.ruoyi.common.core.utils.poi.ExcelHandlerAdapter;
 /**
  * 自定义导出Excel数据注解
  * 
- * @author ruoyi
+ *
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.FIELD)

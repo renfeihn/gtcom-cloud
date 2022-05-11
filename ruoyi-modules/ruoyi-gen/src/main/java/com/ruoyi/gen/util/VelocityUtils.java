@@ -15,7 +15,7 @@ import com.ruoyi.gen.domain.GenTableColumn;
 /**
  * 模板工具类
  * 
- * @author ruoyi
+ *
  */
 public class VelocityUtils
 {

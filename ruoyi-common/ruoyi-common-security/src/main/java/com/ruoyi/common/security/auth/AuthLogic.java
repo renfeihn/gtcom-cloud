@@ -20,7 +20,7 @@ import com.ruoyi.system.api.model.LoginUser;
 /**
  * Token 权限验证，逻辑实现类
  * 
- * @author ruoyi
+ *
  */
 public class AuthLogic
 {
